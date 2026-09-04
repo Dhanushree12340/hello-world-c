@@ -20,3 +20,10 @@ My name is Dhanushree. I am studying Computer Science Engineering. This reposito
 Learning Python
 Interested in cloud computing
 Goal: contribute to open source
+
+## Collaboration Log
+
+- Partner: devikany632-afk
+- GitHub Username: devikany632-afk
+- What we built together: Added the greet() function to hello.c.
+- What I learned: GitLens helps track who changed the code and when, while Live Share allows two people to collaborate in real time.
